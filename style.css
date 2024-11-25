@@ -20,16 +20,21 @@
 
 h1{
     font-size: 45px;
+    margin-bottom: 0%;
 }
 
 .data{
     font-size: 25px;
     color: gray;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 
 .data2{
     font-size: 15px;
     color: gray;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 
 .tim{
@@ -37,5 +42,9 @@ h1{
     height: 55%;
 }
 
+.margin1{
+    margin-top: 0%;
+    font-size: small;
+}
 
 
